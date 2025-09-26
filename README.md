@@ -8,5 +8,5 @@ A collection of useful PHP Scritps
 
 </div>
 
-- [Google Cloud Messaging PHP Server](./src/gcm-php-server/)
+- [Google Cloud Messaging using PHP for Server-side](./src/gcm-php-server/)
 - [Import GMail to MySQL with PHP](./src/gmail-mysql-import/)
